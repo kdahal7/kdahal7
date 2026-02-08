@@ -19,7 +19,6 @@ I am a passionate computer science student focused on **Backend Development** us
 - 🔭 I’m currently working on **Real-Time Threat Intelligence Systems**
 - 🌱 I’m currently refining my skills in **Advanced DSA, System Design & SQL**
 - 🎓 **2023-2027 Batch** | **CGPA: 8.22**
-- ⚡ **Fun fact:** When I'm not coding, I'm creating 3D animations in **Blender** or watching **My Hero Academia**.
 - 📫 How to reach me: **kaushaldahal1122@gmail.com**
 
 ---
