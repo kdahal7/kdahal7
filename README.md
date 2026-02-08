@@ -20,7 +20,7 @@ I am a passionate computer science student focused on **Backend Development** us
 - 🌱 I’m currently refining my skills in **Advanced DSA, System Design & SQL**
 - 🎓 **2023-2027 Batch** | **CGPA: 8.22**
 - ⚡ **Fun fact:** When I'm not coding, I'm creating 3D animations in **Blender** or watching **My Hero Academia**.
-- 📫 How to reach me: **[YourEmail@example.com]**
+- 📫 How to reach me: **kaushaldahal1122@gmail.com**
 
 ---
 
@@ -52,7 +52,8 @@ I am a passionate computer science student focused on **Backend Development** us
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kdahal7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdahal7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="languages graph" />
-</div>
+### 📊 GitHub Stats
+
+![Kaushal's Stats](https://github-readme-stats.vercel.app/api?username=kdahal7&show_icons=true&theme=tokyonight)
+
+![Kaushal's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kdahal7&layout=compact&theme=tokyonight)
