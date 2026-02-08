@@ -50,10 +50,4 @@ I am a passionate computer science student focused on **Backend Development** us
 
 ---
 
-### 📊 GitHub Stats
 
-### 📊 GitHub Stats
-
-![Kaushal's Stats](https://github-readme-stats.vercel.app/api?username=kdahal7&show_icons=true&theme=tokyonight)
-
-![Kaushal's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kdahal7&layout=compact&theme=tokyonight)
