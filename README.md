@@ -1,12 +1,25 @@
-# Hi there, I'm Kaushal Dahal! 👋
+<div align="center">
+  <h1>Hi there, I'm Kaushal Dahal! 👋</h1>
+  <p>
+    <b>Pre-final Year B.Tech CSE Student @ GITAM University</b><br>
+    <i>Backend Engineer | DSA Enthusiast | Anime Fan</i>
+  </p>
+  
+  <a href="https://github.com/kdahal7">
+    <img src="https://img.shields.io/github/followers/kdahal7?label=Follow&style=social" alt="Follow"/>
+  </a>
+</div>
 
-I'm a **Pre-final Year B.Tech CSE Student** at **GITAM University**, passionate about Backend Engineering and solving complex problems with Data Structures & Algorithms.
+---
 
-Currently, I am focusing on building scalable systems using **Java & Spring Boot** and exploring the intersection of **Machine Learning and Cybersecurity**. I am actively looking for internship opportunities where I can apply my backend development skills.
+### 👨‍💻 About Me
+
+I am a passionate computer science student focused on **Backend Development** using **Java & Spring Boot**. I love solving complex problems using Data Structures & Algorithms and am currently exploring the intersection of **Machine Learning** and **Cybersecurity**.
 
 - 🔭 I’m currently working on **Real-Time Threat Intelligence Systems**
-- 🌱 I’m currently refining my skills in **Advanced DSA & System Design**
-- ⚡ **Fun fact:** When I'm not coding backend logic, I'm exploring 3D animation in **Blender** or watching **My Hero Academia**.
+- 🌱 I’m currently refining my skills in **Advanced DSA, System Design & SQL**
+- 🎓 **2023-2027 Batch** | **CGPA: 8.22**
+- ⚡ **Fun fact:** When I'm not coding, I'm creating 3D animations in **Blender** or watching **My Hero Academia**.
 - 📫 How to reach me: **[YourEmail@example.com]**
 
 ---
@@ -31,9 +44,9 @@ Currently, I am focusing on building scalable systems using **Java & Spring Boot
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **Real-Time Log Anomaly Detection** | A pipeline that detects anomalies in system logs in real-time to prevent potential failures. | Python, ML, Streaming |
+| **Real-Time Log Anomaly** | A pipeline that detects anomalies in system logs in real-time to prevent potential failures. | Python, ML, Streaming |
 | **Semantic Log Analyzer** | An intelligent analyzer that understands the context of logs for better debugging and insights. | NLP, Python, Backend |
-| **Phishing Threat Intelligence API** | A real-time API designed to identify and flag phishing threats to enhance cybersecurity. | Java, Spring Boot, REST API |
+| **Phishing Threat API** | A real-time API designed to identify and flag phishing threats to enhance cybersecurity. | Java, Spring Boot |
 
 ---
 
