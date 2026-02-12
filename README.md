@@ -5,6 +5,10 @@
     <i>Backend Engineer | DSA Enthusiast | Anime Fan</i>
   </p>
   
+  <a href="https://portfolio-eight-zeta-54.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-blue?style=social&logo=vercel" alt="Portfolio"/>
+  </a>
+  &nbsp;
   <a href="https://github.com/kdahal7">
     <img src="https://img.shields.io/github/followers/kdahal7?label=Follow&style=social" alt="Follow"/>
   </a>
@@ -18,6 +22,7 @@ I am a passionate computer science student focused on **Backend Development** us
 
 - 🔭 I’m currently working on **Real-Time Threat Intelligence Systems**
 - 🌱 I’m currently refining my skills in **Advanced DSA, System Design & SQL**
+- 🌐 **Portfolio:** [Check out my work here](https://portfolio-eight-zeta-54.vercel.app/)
 - 🎓 **2023-2027 Batch** | **CGPA: 8.22**
 - 📫 How to reach me: **kaushaldahal1122@gmail.com**
 
@@ -48,5 +53,3 @@ I am a passionate computer science student focused on **Backend Development** us
 | **Phishing Threat API** | A real-time API designed to identify and flag phishing threats to enhance cybersecurity. | Java, Spring Boot |
 
 ---
-
-
