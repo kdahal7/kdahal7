@@ -5,13 +5,6 @@
     <i>Backend Engineer | DSA Enthusiast | Anime Fan</i>
   </p>
   
-  <a href="https://portfolio-eight-zeta-54.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-blue?style=social&logo=vercel" alt="Portfolio"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/kdahal7">
-    <img src="https://img.shields.io/github/followers/kdahal7?label=Follow&style=social" alt="Follow"/>
-  </a>
 </div>
 
 ---
